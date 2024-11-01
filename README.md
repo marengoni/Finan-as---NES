@@ -1,2 +1,2 @@
-# Finan-as---NES
-Projeto prático do NES (POO)
+# Finanças - NES
+Projeto prático do NES (POO).
